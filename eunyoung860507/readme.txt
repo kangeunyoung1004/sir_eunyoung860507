@@ -1,6 +1,6 @@
 Theme Name: eunyoung1004
 Theme URI: http://eunyoung1004.dothome.co.kr
-Maker: SIR
+Maker: SIR111
 Maker URI:http://eunyoung1004.dothome.co.kr
 Version: 1.0.0
 Detail: 베이직 테마는  SIR에서 제공하는 그누보드5 테마입니다. 베이직 테마는 웹표준 및 접근성을 준수합니다.
